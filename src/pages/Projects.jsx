@@ -40,7 +40,7 @@ const Projects = () => {
         trigger: ".lol",
         // markers:true,
         start: "top 100%",
-        end: "top 100%",
+        end: "top -300%",
         scrub: true,
       },
     });
@@ -70,3 +70,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
